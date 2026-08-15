@@ -1,0 +1,6 @@
+@LibraryMSBackend_HostAddress = http://localhost:5228
+
+GET {{LibraryMSBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
